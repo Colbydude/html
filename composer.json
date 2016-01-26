@@ -1,10 +1,14 @@
 {
-    "name": "illuminate/html",
+    "name": "colbydude/html",
     "license": "MIT",
     "authors": [
         {
             "name": "Taylor Otwell",
             "email": "taylorotwell@gmail.com"
+        },
+        {
+            "name": "Colby Terry",
+            "email": "colbydude@voidteam.net"
         }
     ],
     "require": {
@@ -20,11 +24,6 @@
         "files": [
             "helpers.php"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.0-dev"
-        }
     },
     "minimum-stability": "dev"
 }
